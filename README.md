@@ -1,5 +1,5 @@
 # file_count
-For now the read me the same as the, for the most part as the header in main.cpp
+For now the readme is the same as the, for the most part, as the header in main.cpp
 
  main.cpp of the FileCount program
  Program takes string of file name ending in .txt and adds all numbers in file. If there is a 
